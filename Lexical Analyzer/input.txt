@@ -1,0 +1,8 @@
+<- This is multi-line 
+comment  ->
+char $a = '\n';
+$b = "This is \' \\";
+'\\213';
+"\mcvnk838 $kdf "$a.45.$b.9
+~~This is single line comment
+.6
